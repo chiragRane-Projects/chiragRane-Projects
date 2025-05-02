@@ -23,22 +23,25 @@
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![ShadCN UI](https://img.shields.io/badge/-ShadCN-111827?style=for-the-badge&logo=react&logoColor=white)
-![Clerk](https://img.shields.io/badge/-Clerk-F44?style=for-the-badge&logo=clerk&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![MySQL](https://img.shields.io/badge/-MySql-181717?style=for-the-badge&logo=mysql&logoColor=orange)
-![Firebase](https://img.shields.io/badge/-Firebase-181717?style=for-the-badge&logo=Firebase&logoColor=yellow)
-![Django](https://img.shields.io/badge/-Django-181717?style=for-the-badge&logo=Django&logoColor=green)
-![Flask](https://img.shields.io/badge/-Flask-181717?style=for-the-badge&logo=Flask&logoColor=sky)
-![Vite](https://img.shields.io/badge/-Vite-181717?style=for-the-badge&logo=Vite&logoColor=purple)
-![FastAPI](https://img.shields.io/badge/-FastApi-181717?style=for-the-badge&logo=FastApi&logoColor=teal)
-![Flutter](https://img.shields.io/badge/-Flutter-181717?style=for-the-badge&logo=flutter&logoColor=emerald)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-3E1E50?style=for-the-badge&logo=clerk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-008FFF?style=for-the-badge&logo=neon&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ---
 
