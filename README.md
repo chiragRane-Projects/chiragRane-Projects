@@ -58,9 +58,9 @@
 | 💼 Project | ⚡ What It Does |
 |-----------|----------------|
 | [Expensify](https://github.com/heychirag-projects/Expensify) | AI-powered personal finance tracker (budgeting, parsing receipts, auto-categorization) |
-| [SaaSify](https://github.com/heychirag-projects/SaaSify) | Boilerplate for launching SaaS products with auth, subscriptions, and dashboards |
-| [Blogify](https://github.com/heychirag-projects/Blogify) | Full-stack Markdown blog with rich editor, user auth, and comment system |
-| [DevDashboard](https://github.com/heychirag-projects/DevDashboard) | Personalized dashboard with widgets (GitHub stats, weather, to-dos, productivity) |
+| [QuickPress](https://github.com/chiragRane-Projects/QucikPress) | News Generator Web App using NEWSAPI |
+| [Tell-It Backend](https://github.com/chiragRane-Projects/TellIt-backend.git) | Backend for QuickPress |
+| [DataPulse](https://github.com/chiragRane-Projects/DataPulse) | Shows visual reports using raw data | 
 
 ---
 
