@@ -37,7 +37,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-181717?style=flat&logo=Flask&logoColor=sky)
 ![Vite](https://img.shields.io/badge/-Vite-181717?style=flat&logo=Vite&logoColor=purple)
 ![FastAPI](https://img.shields.io/badge/-FastApi-181717?style=flat&logo=FastApi&logoColor=teal)
-![React Native](https://img.shields.io/badge/-ReactNative-181717?style=flat&logo=ReactNative&logoColor=emerald)
+![ReactNative](https://img.shields.io/badge/-ReactNative-181717?style=flat&logo=ReactNative&logoColor=emerald)
 
 ---
 
