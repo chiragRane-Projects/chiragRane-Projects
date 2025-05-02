@@ -44,10 +44,10 @@
 
 ## 🚧 Currently Working On
 
-- 🧾 **[Expensify v2](https://github.com/chiragRane-Projects/Expensify)** — AI-powered personal finance with invoice parsing
+- 🧾 **[Expensify](https://github.com/chiragRane-Projects/Expensify)** — AI-powered personal finance with invoice parsing
+- 🔐 **Stock Market Data Dashboard** — Pandas + Numpy + FastAPI + NextJs + AlphaVantageAPI + 
 - 🌍 **My Portfolio Site** — Full-stack Next.js build, launching June 2025
-- 🔐 **Modular Auth System** — Clerk + Magic Link + OAuth
-
+- 
 ---
 
 ## 💼 Featured Projects
