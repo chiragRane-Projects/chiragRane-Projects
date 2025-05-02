@@ -57,8 +57,8 @@
 
 | 💼 Project | ⚡ What It Does |
 |-----------|----------------|
-| [Expensify](https://github.com/heychirag-projects/Expensify) | AI-powered personal finance tracker (budgeting, parsing receipts, auto-categorization) |
-| [QuickPress](https://github.com/chiragRane-Projects/QucikPress) | News Generator Web App using NEWSAPI |
+| [Expensify](https://github.com/chiragRane-Projects/Expensify) | AI-powered personal finance tracker (budgeting, parsing receipts, auto-categorization) |
+| [QuickPress](https://github.com/chiragRane-Projects/QuickPress) | News Generator Web App using NEWSAPI |
 | [Tell-It Backend](https://github.com/chiragRane-Projects/TellIt-backend.git) | Backend for QuickPress |
 | [DataPulse](https://github.com/chiragRane-Projects/DataPulse) | Shows visual reports using raw data | 
 
