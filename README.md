@@ -39,7 +39,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=chiragRane-Projectes&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=chiragRane-Projects&show_icons=true&theme=radical" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragRane-Projects&layout=compact&theme=radical" />
 </div>
 
