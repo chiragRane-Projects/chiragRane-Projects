@@ -38,7 +38,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-181717?style=flat&logo=Vite&logoColor=purple)
 ![FastAPI](https://img.shields.io/badge/-FastApi-181717?style=flat&logo=FastApi&logoColor=teal)
 ![Flutter](https://img.shields.io/badge/-Flutter-181717?style=flat&logo=flutter&logoColor=emerald)
-![ReactNative](https://img.shields.io/badge/-React_Native-181717?style=flat&logo=reactnative&logoColor=emerald)
+![ReactNative](https://img.shields.io/badge/-React_Native-181717?style=flat&logo=REACTNATIVE)
 ---
 
 ## 📊 GitHub Stats
