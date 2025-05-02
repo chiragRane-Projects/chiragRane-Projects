@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">🚀 Hey, I'm Chirag Rane</h1>
+<p align="center">👨‍💻 Full-Stack Developer | 🧱 System Architect | 🔧 Builder of Real-World Tech</p>
 
-<!--
-**chiragRane-Projects/chiragRane-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About This Account
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏗 This GitHub is *exclusively* for my personal and client-focused **projects** — full-stack, scalable, and production-ready.
+- 💡 I specialize in transforming real-world problems into clean, maintainable code and seamless user experiences.
+- ⚡ Expect: high-quality UI, well-structured backends, cloud integration, and a sprinkle of automation magic.
+- 🛠 Tech playground: Next.js, Express, MongoDB, TailwindCSS, Python (for automation/ML integration).
+- 🎯 Mission: Deliver solutions that *actually solve problems* — not just code that compiles.
+
+---
+
+## 🌍 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/chiragrane04/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-rane-2a7ba5270/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue)](#)
+
+---
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![ShadCN UI](https://img.shields.io/badge/-ShadCN-111827?style=flat&logo=react&logoColor=white)
+![Clerk](https://img.shields.io/badge/-Clerk-F44?style=flat&logo=clerk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=heychirag-projects&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heychirag-projects&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 🔍 Featured Projects
+
+| 💼 Project | ⚡ What It Does |
+|-----------|----------------|
+| [Expensify](https://github.com/heychirag-projects/Expensify) | AI-powered personal finance tracker (budgeting, parsing receipts, auto-categorization) |
+| [SaaSify](https://github.com/heychirag-projects/SaaSify) | Boilerplate for launching SaaS products with auth, subscriptions, and dashboards |
+| [Blogify](https://github.com/heychirag-projects/Blogify) | Full-stack Markdown blog with rich editor, user auth, and comment system |
+| [DevDashboard](https://github.com/heychirag-projects/DevDashboard) | Personalized dashboard with widgets (GitHub stats, weather, to-dos, productivity) |
+
+---
+
+## ✨ Philosophy
+
+> “Real devs ship things. Clean code is great — but delivered code changes lives.”  
+> — Me (and probably someone cooler too)
+
+---
+
+<p align="center">
+  Thanks for checking out my work! ⭐ a repo if it sparks an idea or solves a problem.
+</p>
