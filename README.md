@@ -40,6 +40,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Shadcn Ui](https://img.shields.io/badge/Shadcn_ui-20232A?style=for-the-badge&logo=shadcn_ui&logoColor=61DAFB)
 
 ---
 
