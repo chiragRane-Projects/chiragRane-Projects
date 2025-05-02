@@ -50,10 +50,8 @@
 
 ## 🚧 Currently Building...
 
-- 🔥 **[Expensify v2](https://github.com/chiragRane-Projects/Expensify)** — Personal finance tracking meets AI. Say goodbye to budgeting headaches!
+- 🔥 **[Expensify](https://github.com/chiragRane-Projects/Expensify)** — Personal finance tracking meets AI. Say goodbye to budgeting headaches!
 - 🌐 **Personal Portfolio** — Full-stack Next.js site + automation + AI. Launching **June 2025**.
-- 🔑 **Auth System** — Simplified user authentication (OAuth, Magic Link, Clerk). No more password pain!
-
 ---
 
 ## 💼 Featured Projects
@@ -84,7 +82,7 @@
 ---
 
 <p align="center">
-  ⭐ **Star** a repo if it inspires you, helps you out, or sparks a new idea!
+  ⭐ a repo if it inspires you, helps you out, or sparks a new idea!
   <br><br>
   Let’s **build something amazing** — together.
 </p>
