@@ -50,7 +50,7 @@
 
 ## 🚧 Currently Building...
 
-- 🔥 **[Expensify](https://github.com/chiragRane-Projects/Expensify)** — Personal finance tracking meets AI. Say goodbye to budgeting headaches!
+- 🔥 **[Expensify](https://github.com/chiragRane-Projects/Xpensify)** — Personal finance tracking meets AI. Say goodbye to budgeting headaches!
 - 🌐 **Personal Portfolio** — Full-stack Next.js site + automation + AI. Launching **June 2025**.
 ---
 
