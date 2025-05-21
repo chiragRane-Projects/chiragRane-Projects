@@ -31,7 +31,7 @@
 
 ## 🔬 Entering the World of Data Science
 
-My latest obsession? **Data Science**. I’ve kicked off a dedicated journey diving into the depths of data with Python, NumPy, Pandas, and Jupyter Notebooks. Whether it's modeling user behavior, building recommendation systems, or visualizing insights, I'm documenting everything in my [Data Science Repository](https://github.com/heychirag-ds).
+My latest obsession? **Data Science**. I’ve kicked off a dedicated journey diving into the depths of data with Python, NumPy, Pandas, and Jupyter Notebooks. Whether it's modeling user behavior, building recommendation systems, or visualizing insights, I'm documenting everything in my [Data Science Account](https://github.com/heychirag-ds).
 
 This is not just theory—it's a hands-on path with real datasets, projects, and mini case studies, built as I learn from sources like Code With Harry's data science course.
 
