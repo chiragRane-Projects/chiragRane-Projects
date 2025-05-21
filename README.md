@@ -31,7 +31,7 @@
 
 ## 🔬 Entering the World of Data Science
 
-My latest obsession? **Data Science**. I’ve kicked off a dedicated journey diving into the depths of data with Python, NumPy, Pandas, and Jupyter Notebooks. Whether it's modeling user behavior, building recommendation systems, or visualizing insights, I'm documenting everything in my [Data Science Repository](https://github.com/chiragRane-Projects/Data-Science).
+My latest obsession? **Data Science**. I’ve kicked off a dedicated journey diving into the depths of data with Python, NumPy, Pandas, and Jupyter Notebooks. Whether it's modeling user behavior, building recommendation systems, or visualizing insights, I'm documenting everything in my [Data Science Repository](https://github.com/heychirag-ds).
 
 This is not just theory—it's a hands-on path with real datasets, projects, and mini case studies, built as I learn from sources like Code With Harry's data science course.
 
@@ -72,7 +72,6 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 | [![Tell-It Backend](https://img.shields.io/badge/TellIt-Backend_Server-red?style=flat-square)](https://github.com/chiragRane-Projects/TellIt-backend.git) | The API backbone for **QuickPress**. Fast, secure, and scalable. |
 | [![DataPulse](https://img.shields.io/badge/DataPulse-Data_Visualizer-green?style=flat-square)](https://github.com/chiragRane-Projects/DataPulse) | Transforming raw data into engaging visual insights! |
 | [![Coders of Delhi](https://img.shields.io/badge/CodersOfDelhi-Social_Network-blue?style=flat-square)](https://github.com/chiragRane-Projects/Coders-Of-Delhi) | A non-UI, JSON-based platform suggesting **friends** and **pages** coders might like. |
-| [![Data Science](https://img.shields.io/badge/DataScience-Learning_Journey-lightgrey?style=flat-square)](https://github.com/chiragRane-Projects/Data-Science) | A structured path from basics to advanced topics in **Data Science** using Python & Jupyter. |
 
 ---
 
