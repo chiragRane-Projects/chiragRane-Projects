@@ -53,7 +53,7 @@
 
 ## 🚧 Currently Building...
 
-- 🌐 **Personal Portfolio** — Full-stack Next.js site + automation + AI. Launching **June 2025**.
+- 🌐 **Personal Portfolio** — Full-stack Next.js site + automation + AI. Launching **2025**.
 ---
 
 ## 💼 Featured Projects
