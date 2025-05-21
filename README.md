@@ -60,6 +60,7 @@
 | [![QuickPress](https://img.shields.io/badge/QuickPress-News_Aggregator-orange?style=flat-square)](https://github.com/chiragRane-Projects/QuickPress) | Curated news feed using **NewsAPI** + NLP for smarter news delivery. |
 | [![Tell-It Backend](https://img.shields.io/badge/TellIt-Backend_Server-red?style=flat-square)](https://github.com/chiragRane-Projects/TellIt-backend.git) | The API backbone for **QuickPress**. Fast, secure, and scalable. |
 | [![DataPulse](https://img.shields.io/badge/DataPulse-Data_Visualizer-green?style=flat-square)](https://github.com/chiragRane-Projects/DataPulse) | Transforming raw data into engaging visual insights! |
+| [![Coders of Delhi](https://img.shields.io/badge/CodersOfDelhi-Social_Network-blue?style=flat-square)](https://github.com/chiragRane-Projects/CodersOfDelhi) | A non-UI, JSON-based platform suggesting **friends** and **pages** coders might like. |
 
 ---
 
