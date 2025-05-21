@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Releasing_June_2025-FF8C00?style=for-the-badge&logo=fire&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-Releasing_2025-FF8C00?style=for-the-badge&logo=fire&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
 
