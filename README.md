@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Developer life">
   <h1 align="center">🚀 Welcome to My World — I'm Chirag Rane</h1>
-  <p align="center">👨‍💻 Full-Stack Developer | 🧱 System Architect | 🔧 Builder of Real-World Tech | 🔬 Aspiring Data Scientist</p>
+  <p align="center">👨‍💻 Full-Stack Developer | 🧱 System Architect | 🔧 Builder of Real-World Tech | 🧠 Aspiring Data Scientist</p>
 </p>
 
 <!-- SOCIAL LINKS WITH SWAG -->
@@ -22,11 +22,18 @@
 
 ## 🧠 About This Account
 
-- 🛠 **My GitHub = My Playground**: This repo hosts the *raw magic* — personal & client projects that are **full-stack**, **scalable**, and **production-ready**.
-- 💡 **Problem Solver**: I transform messy ideas into clean, maintainable code. Performance & experience are key!
-- 🌐 **Tech Stack**: Next.js, Express, MongoDB, TailwindCSS, Firebase, Clerk, Python (because AI is life!).
-- 🎯 **Mission**: **"I don't just write code. I deliver impact!"** Expect well-architected systems, pixel-perfect UIs, and cloud-powered features.
-- 💪 **Specialty**: Building with **automation**, **AI**, and **integration** to unlock efficiency. 🤖
+- 🛠 **My GitHub = My Playground**: Personal & client projects, experiments, and production-level builds — all under one digital roof.
+- 💡 **Problem Solver by Nature**: I turn chaos into clean code that actually solves problems.
+- 🌐 **Full-Stack Dev meets Data Science**: From Next.js to NumPy — I’m blending system design with data intelligence.
+- 🎯 **Mission**: Build projects that matter. Learn constantly. Share everything.
+
+---
+
+## 🔬 Entering the World of Data Science
+
+My latest obsession? **Data Science**. I’ve kicked off a dedicated journey diving into the depths of data with Python, NumPy, Pandas, and Jupyter Notebooks. Whether it's modeling user behavior, building recommendation systems, or visualizing insights, I'm documenting everything in my [Data Science Repository](https://github.com/chiragRane-Projects/Data-Science).
+
+This is not just theory—it's a hands-on path with real datasets, projects, and mini case studies, built as I learn from sources like Code With Harry's data science course.
 
 ---
 
@@ -48,12 +55,13 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
 </p>
 
-
 ---
 
 ## 🚧 Currently Building...
 
 - 🌐 **Personal Portfolio** — Full-stack Next.js site + automation + AI. Launching **2025**.
+- 📊 **Data Science Repo** — A folder-wise log of my complete learning path into data, ML, and Python-powered insights.
+
 ---
 
 ## 💼 Featured Projects
@@ -64,6 +72,7 @@
 | [![Tell-It Backend](https://img.shields.io/badge/TellIt-Backend_Server-red?style=flat-square)](https://github.com/chiragRane-Projects/TellIt-backend.git) | The API backbone for **QuickPress**. Fast, secure, and scalable. |
 | [![DataPulse](https://img.shields.io/badge/DataPulse-Data_Visualizer-green?style=flat-square)](https://github.com/chiragRane-Projects/DataPulse) | Transforming raw data into engaging visual insights! |
 | [![Coders of Delhi](https://img.shields.io/badge/CodersOfDelhi-Social_Network-blue?style=flat-square)](https://github.com/chiragRane-Projects/Coders-Of-Delhi) | A non-UI, JSON-based platform suggesting **friends** and **pages** coders might like. |
+| [![Data Science](https://img.shields.io/badge/DataScience-Learning_Journey-lightgrey?style=flat-square)](https://github.com/chiragRane-Projects/Data-Science) | A structured path from basics to advanced topics in **Data Science** using Python & Jupyter. |
 
 ---
 
@@ -79,15 +88,12 @@
 ## ✨ Philosophy
 
 > **“Clean code is important, but delivered code that solves problems is life-changing.”**  
-> — Me (and definitely someone cooler, but we’re still searching for them!)
+> — Me (and probably someone way smarter too)
 
 ---
 
 <p align="center">
   ⭐ a repo if it inspires you, helps you out, or sparks a new idea!
   <br><br>
-  Let’s **build something amazing** — together.
+  Let’s **build and analyze** — one dataset, one app at a time.
 </p>
-
----
-
