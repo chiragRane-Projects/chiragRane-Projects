@@ -44,7 +44,10 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge"/>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook Badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
 </p>
+
 
 ---
 
@@ -60,7 +63,7 @@
 | [![QuickPress](https://img.shields.io/badge/QuickPress-News_Aggregator-orange?style=flat-square)](https://github.com/chiragRane-Projects/QuickPress) | Curated news feed using **NewsAPI** + NLP for smarter news delivery. |
 | [![Tell-It Backend](https://img.shields.io/badge/TellIt-Backend_Server-red?style=flat-square)](https://github.com/chiragRane-Projects/TellIt-backend.git) | The API backbone for **QuickPress**. Fast, secure, and scalable. |
 | [![DataPulse](https://img.shields.io/badge/DataPulse-Data_Visualizer-green?style=flat-square)](https://github.com/chiragRane-Projects/DataPulse) | Transforming raw data into engaging visual insights! |
-| [![Coders of Delhi](https://img.shields.io/badge/CodersOfDelhi-Social_Network-blue?style=flat-square)](https://github.com/chiragRane-Projects/CodersOfDelhi) | A non-UI, JSON-based platform suggesting **friends** and **pages** coders might like. |
+| [![Coders of Delhi](https://img.shields.io/badge/CodersOfDelhi-Social_Network-blue?style=flat-square)](https://github.com/chiragRane-Projects/Coders-Of-Delhi) | A non-UI, JSON-based platform suggesting **friends** and **pages** coders might like. |
 
 ---
 
