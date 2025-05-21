@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Developer life">
   <h1 align="center">🚀 Welcome to My World — I'm Chirag Rane</h1>
-  <p align="center">👨‍💻 Full-Stack Developer | 🧱 System Architect | 🔧 Builder of Real-World Tech</p>
+  <p align="center">👨‍💻 Full-Stack Developer | 🧱 System Architect | 🔧 Builder of Real-World Tech | 🔬 Aspiring Data Scientist</p>
 </p>
 
 <!-- SOCIAL LINKS WITH SWAG -->
