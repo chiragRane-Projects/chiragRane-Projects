@@ -60,8 +60,6 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 ## 🚧 Currently Building...
 
 - 🌐 **Personal Portfolio** — Full-stack Next.js site + automation + AI. Launching **2025**.
-- 📊 **Data Science Repo** — A folder-wise log of my complete learning path into data, ML, and Python-powered insights.
-
 ---
 
 ## 💼 Featured Projects
@@ -72,6 +70,8 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 | [![Tell-It Backend](https://img.shields.io/badge/TellIt-Backend_Server-red?style=flat-square)](https://github.com/chiragRane-Projects/TellIt-backend.git) | The API backbone for **QuickPress**. Fast, secure, and scalable. |
 | [![DataPulse](https://img.shields.io/badge/DataPulse-Data_Visualizer-green?style=flat-square)](https://github.com/chiragRane-Projects/DataPulse) | Transforming raw data into engaging visual insights! |
 | [![Coders of Delhi](https://img.shields.io/badge/CodersOfDelhi-Social_Network-blue?style=flat-square)](https://github.com/chiragRane-Projects/Coders-Of-Delhi) | A non-UI, JSON-based platform suggesting **friends** and **pages** coders might like. |
+[![Estate](https://img.shields.io/badge/Estate-LandingPage-blue?style=flat-square)](https://github.com/chiragRane-Projects/Estate)
+
 
 ---
 
