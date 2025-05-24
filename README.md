@@ -71,7 +71,7 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 | [![DataPulse](https://img.shields.io/badge/DataPulse-Data_Visualizer-green?style=flat-square)](https://github.com/chiragRane-Projects/DataPulse) | Transforming raw data into engaging visual insights! |
 | [![Coders of Delhi](https://img.shields.io/badge/CodersOfDelhi-Social_Network-blue?style=flat-square)](https://github.com/chiragRane-Projects/Coders-Of-Delhi) | A non-UI, JSON-based platform suggesting **friends** and **pages** coders might like. |
 [![Estate](https://img.shields.io/badge/Estate-LandingPage-emerald?style=flat-square)](https://github.com/chiragRane-Projects/Estate) | Estate is a responsive landing page template for real estate consultants to showcase properties and services. |
-[![Xpensify](https://img.shields.io/badge/Xpensify-Expense_Tracker-cyan?style=flat-square)](https://github.com/chiragRane-Projects/Estate) | Xpensify is an expense tracker which allows user track their expenses within a specified budget set by themselves |
+[![Xpensify](https://img.shields.io/badge/Xpensify-Expense_Tracker-cyan?style=flat-square)](https://github.com/chiragRane-Projects/Xpensify) | Xpensify is an expense tracker which allows user track their expenses within a specified budget set by themselves |
 
 ---
 
