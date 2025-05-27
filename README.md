@@ -73,7 +73,7 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 [![Estate](https://img.shields.io/badge/Estate-LandingPage-emerald?style=flat-square)](https://github.com/chiragRane-Projects/Estate) | Estate is a responsive landing page template for real estate consultants to showcase properties and services. |
 [![CoffeeNation](https://img.shields.io/badge/CoffeeNation-LandingPage-indigo?style=flat-square)](https://github.com/chiragRane-Projects/CoffeeNation) | CoffeeNation is a responsive animated landing page for a coffee cafe |
 [![Xpensify](https://img.shields.io/badge/Xpensify-Expense_Tracker-cyan?style=flat-square)](https://github.com/chiragRane-Projects/Xpensify) | Xpensify is an expense tracker which allows user track their expenses within a specified budget set by themselves |
-[![Lords](https://img.shields.io/badge/Lords-fullstack_webapp-beige?style=flat-square)](https://github.com/chiragRane-Projects/Glamoure) | **Lords** is a full-fledged, real-time **Gaming Café Management System** built for modern game lounges. It helps automate bookings, manage inventory, track staff shifts, and visualize revenue — all under one dashboard. |
+[![Lords](https://img.shields.io/badge/Lords-Fullstack_Webapp-beige?style=flat-square)](https://github.com/chiragRane-Projects/Glamoure) | **Lords** is a full-fledged, real-time **Gaming Café Management System** built for modern game lounges. It helps automate bookings, manage inventory, track staff shifts, and visualize revenue — all under one dashboard. |
 
 ---
 
