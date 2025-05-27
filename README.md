@@ -58,7 +58,7 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 ---
 
 ## 🚧 Currently Building...
-
+- ✂️ **Glamoure** - Full-stack web app for salon business with an animated landing page, admin panel with RBAC to manage the salon digitally.
 - 🌐 **Personal Portfolio** — Full-stack Next.js site + automation + AI. Launching **2025**.
 ---
 
