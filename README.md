@@ -56,7 +56,6 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 <img src="https://img.shields.io/badge/Clerk-3E1E50?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk Badge"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge"/>
 
 <!-- Languages & Tools -->
@@ -71,7 +70,7 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 ---
 
 ## 🚧 Currently Building...
-- ✂️ **Glamoure** - Full-stack web app for salon business with an animated landing page, admin panel with RBAC to manage the salon digitally.
+- ✂️ **Trackmate** -TrackMate is a full-stack fleet management system designed to streamline logistics operations for businesses with vehicle-based services.
 - 🌐 **Personal Portfolio** — Full-stack Next.js site + automation + AI. Launching **2025**.
 ---
 
@@ -86,7 +85,7 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 [![Estate](https://img.shields.io/badge/Estate-LandingPage-emerald?style=flat-square)](https://github.com/chiragRane-Projects/Estate) | Estate is a responsive landing page template for real estate consultants to showcase properties and services. |
 [![CoffeeNation](https://img.shields.io/badge/CoffeeNation-LandingPage-indigo?style=flat-square)](https://github.com/chiragRane-Projects/CoffeeNation) | CoffeeNation is a responsive animated landing page for a coffee cafe |
 [![Xpensify](https://img.shields.io/badge/Xpensify-Expense_Tracker-cyan?style=flat-square)](https://github.com/chiragRane-Projects/Xpensify) | Xpensify is an expense tracker which allows user track their expenses within a specified budget set by themselves |
-[![Lords](https://img.shields.io/badge/Lords-Fullstack_Webapp-beige?style=flat-square)](https://github.com/chiragRane-Projects/Lords) | **Lords** is a full-fledged, real-time **Gaming Café Management System** built for modern game lounges. It helps automate bookings, manage inventory, track staff shifts, and visualize revenue — all under one dashboard. |
+[![TrackMate](https://img.shields.io/badge/Trackmate-Fullstack_Webapp_MobileApp-beige?style=flat-square)](https://github.com/chiragRane-Projects/trackmate-backend) | **Trackmate** is a full-stack fleet management system designed to streamline logistics operations for businesses with vehicle-based services. |
 
 ---
 
