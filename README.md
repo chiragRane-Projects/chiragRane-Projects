@@ -121,5 +121,5 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 <p align="center">
   ⭐ a repo if it inspires you, helps you out, or sparks a new idea!
   <br><br>
-  Let’s **build and analyze** — one dataset, one app at a time.
+  Let’s build and analyze — one dataset, one app at a time.
 </p>
