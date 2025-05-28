@@ -73,7 +73,6 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 ## 🚧 Currently Building...
 - ✂️ Trackmate -TrackMate is a full-stack fleet management system designed to streamline logistics operations for businesses with vehicle-based services.
 - 🌐 Personal Portfolio — Full-stack Next.js site. Launching 2025.
----
 ```
 
 ## 💼 Featured Projects
