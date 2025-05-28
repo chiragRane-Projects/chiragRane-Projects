@@ -53,6 +53,8 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge"/>
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook Badge"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
+  <img src="https://img.shields.io/badge/Netlify-013243?style=for-the-badge&logo=netlify&logoColor=black" alt="Netlify Badge"/>
+  <img src="https://img.shields.io/badge/Firebase-013243?style=for-the-badge&logo=firebase&logoColor=emerald" alt="NumPy Badge"/>
 </p>
 
 ---
