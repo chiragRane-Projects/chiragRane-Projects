@@ -83,7 +83,7 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 ```bash
 ## 🚧 Currently Building...
 - ✂🚚 Trackmate - TrackMate is a full-stack fleet management system designed to streamline logistics operations for businesses with vehicle-based services.
-- 💸 FinScore - Finscore is a fintech mobile application and web-app developed for banks and customers. The app works as a finance manager for customers and customer management dashboard for banks.
+- 📦 Inventra - Inventra is a modern inventory management system designed for small-mid business which offers offers full-featured web & mobile apps for managing stock, tracking logs, and analyzing reports.
 - 🌐 Personal Portfolio — Full-stack Next.js site. Launching 2025.
 ```
 
