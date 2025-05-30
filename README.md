@@ -91,15 +91,14 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 
 | 🔗 **Project** | ⚡ **What It Does** |
 |----------------|-------------------|
-| [![QuickPress](https://img.shields.io/badge/QuickPress-News_Aggregator-orange?style=flat-square)](https://github.com/chiragRane-Projects/QuickPress) | Curated news feed using **NewsAPI** + NLP for smarter news delivery. |
-| [![Tell-It Backend](https://img.shields.io/badge/TellIt-Backend_Server-red?style=flat-square)](https://github.com/chiragRane-Projects/TellIt-backend.git) | The API backbone for **QuickPress**. Fast, secure, and scalable. |
-| [![DataPulse](https://img.shields.io/badge/DataPulse-Data_Visualizer-green?style=flat-square)](https://github.com/chiragRane-Projects/DataPulse) | Transforming raw data into engaging visual insights! |
-| [![Coders of Delhi](https://img.shields.io/badge/CodersOfDelhi-Social_Network-blue?style=flat-square)](https://github.com/chiragRane-Projects/Coders-Of-Delhi) | A non-UI, JSON-based platform suggesting **friends** and **pages** coders might like. |
-[![Estate](https://img.shields.io/badge/Estate-LandingPage-emerald?style=flat-square)](https://github.com/chiragRane-Projects/Estate) | Estate is a responsive landing page template for real estate consultants to showcase properties and services. |
-[![CoffeeNation](https://img.shields.io/badge/CoffeeNation-LandingPage-indigo?style=flat-square)](https://github.com/chiragRane-Projects/CoffeeNation) | CoffeeNation is a responsive animated landing page for a coffee cafe |
-[![Xpensify](https://img.shields.io/badge/Xpensify-Expense_Tracker-cyan?style=flat-square)](https://github.com/chiragRane-Projects/Xpensify) | Xpensify is an expense tracker which allows user track their expenses within a specified budget set by themselves |
-[![Educare](https://img.shields.io/badge/Educare-landing_page-lightblue?style=flat-square)](https://github.com/chiragRane-Projects/Educare) | Educare is a modern and visually engaging Landing Page for a fictional Learning Management System (LMS)|
-[![TrackMate](https://img.shields.io/badge/Trackmate-beige?style=flat-square)](https://github.com/chiragRane-Projects/trackmate-backend) | Trackmate is a full-stack fleet management system designed to streamline logistics operations for businesses with vehicle-based services. |
+| [![QuickPress](https://img.shields.io/badge/QuickPress-News_Aggregator-orange?style=for-the-badge)](https://github.com/chiragRane-Projects/QuickPress) | Curated news feed using **NewsAPI** + NLP for smarter news delivery. |
+| [![Tell-It Backend](https://img.shields.io/badge/TellIt-Backend_Server-red?style=for-the-badge)](https://github.com/chiragRane-Projects/TellIt-backend.git) | The API backbone for **QuickPress**. Fast, secure, and scalable. |
+| [![Coders of Delhi](https://img.shields.io/badge/CodersOfDelhi-Social_Network-blue?style=for-the-badge)](https://github.com/chiragRane-Projects/Coders-Of-Delhi) | A non-UI, JSON-based platform suggesting **friends** and **pages** coders might like. |
+[![Estate](https://img.shields.io/badge/Estate-LandingPage-emerald?style=for-the-badge)](https://github.com/chiragRane-Projects/Estate) | Estate is a responsive landing page template for real estate consultants to showcase properties and services. |
+[![CoffeeNation](https://img.shields.io/badge/CoffeeNation-LandingPage-indigo?style=for-the-badge)](https://github.com/chiragRane-Projects/CoffeeNation) | CoffeeNation is a responsive animated landing page for a coffee cafe |
+[![Xpensify](https://img.shields.io/badge/Xpensify-Expense_Tracker-cyan?style=for-the-badge)](https://github.com/chiragRane-Projects/Xpensify) | Xpensify is an expense tracker which allows user track their expenses within a specified budget set by themselves |
+[![Educare](https://img.shields.io/badge/Educare-landing_page-lightblue?style=for-the-badge)](https://github.com/chiragRane-Projects/Educare) | Educare is a modern and visually engaging Landing Page for a fictional Learning Management System (LMS)|
+[![TrackMate](https://img.shields.io/badge/Trackmate-beige?style=for-the-badge)](https://github.com/chiragRane-Projects/trackmate-backend) | Trackmate is a full-stack fleet management system designed to streamline logistics operations for businesses with vehicle-based services. |
 [![Inventra](https://img.shields.io/badge/Inventra-turquoise?style=for-the-badge)](https://github.com/chiragRane-Projects/inventra-backend) | Inventra is a modern inventory management designed for small-to-mid shops, it offers full-featured web & mobile apps for managing stock, tracking logs, and analyzing reports |
 
 ---
