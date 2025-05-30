@@ -100,7 +100,7 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 [![Xpensify](https://img.shields.io/badge/Xpensify-Expense_Tracker-cyan?style=flat-square)](https://github.com/chiragRane-Projects/Xpensify) | Xpensify is an expense tracker which allows user track their expenses within a specified budget set by themselves |
 [![Educare](https://img.shields.io/badge/Educare-landing_page-lightblue?style=flat-square)](https://github.com/chiragRane-Projects/Educare) | Educare is a modern and visually engaging Landing Page for a fictional Learning Management System (LMS)|
 [![TrackMate](https://img.shields.io/badge/Trackmate-beige?style=flat-square)](https://github.com/chiragRane-Projects/trackmate-backend) | Trackmate is a full-stack fleet management system designed to streamline logistics operations for businesses with vehicle-based services. |
-[![Inventra](https://img.shields.io/badge/Inventra-turquoise?style=flat-square)](https://github.com/chiragRane-Projects/inventra-backend) | Inventra is a modern inventory management system designed for small-mid shops to manage their inventory. |
+[![Inventra](https://img.shields.io/badge/Inventra-turquoise?style=flat-square)](https://github.com/chiragRane-Projects/inventra-backend) | Inventra is a modern inventory management designed for small-to-mid shops, it offers full-featured web & mobile apps for managing stock, tracking logs, and analyzing reports |
 
 ---
 
