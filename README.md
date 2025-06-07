@@ -82,9 +82,7 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 
 ```bash
 ## 🚧 Currently Building...
--  📦 Inventra - Inventra is a modern inventory management system designed for small-mid business which offers offers full-featured web & mobile apps for managing stock, tracking logs, and analyzing reports.
--  📦 CrdeoPlex - Credoplex is a fintech webapp for banks which tracks customer credit scores, loan details(Launching July 2025).
-- ✂🚚 Trackmate - TrackMate is a full-stack fleet management system designed to streamline logistics operations for businesses with vehicle-based services(Launching July 2025).
+- 👨‍💻 Buildind Projects - Some real world exciting projects releasing soon..
 - 🌐 Personal Portfolio — Full-stack Next.js site. Launching 2025.
 ```
 
@@ -99,8 +97,6 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 [![CoffeeNation](https://img.shields.io/badge/CoffeeNation-LandingPage-indigo?style=for-the-badge)](https://github.com/chiragRane-Projects/CoffeeNation) | CoffeeNation is a responsive animated landing page for a coffee cafe |
 [![Xpensify](https://img.shields.io/badge/Xpensify-Expense_Tracker-cyan?style=for-the-badge)](https://github.com/chiragRane-Projects/Xpensify) | Xpensify is an expense tracker which allows user track their expenses within a specified budget set by themselves |
 [![Educare](https://img.shields.io/badge/Educare-landing_page-lightblue?style=for-the-badge)](https://github.com/chiragRane-Projects/Educare) | Educare is a modern and visually engaging Landing Page for a fictional Learning Management System (LMS)|
-[![TrackMate](https://img.shields.io/badge/Trackmate-beige?style=for-the-badge)](https://github.com/chiragRane-Projects/trackmate-backend) | Trackmate is a full-stack fleet management system designed to streamline logistics operations for businesses with vehicle-based services. |
-[![Inventra](https://img.shields.io/badge/Inventra-turquoise?style=for-the-badge)](https://github.com/chiragRane-Projects/inventra-backend) | Inventra is a modern inventory management designed for small-to-mid shops, it offers full-featured web & mobile apps for managing stock, tracking logs, and analyzing reports |
 
 ---
 
