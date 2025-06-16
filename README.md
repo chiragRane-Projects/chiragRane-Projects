@@ -82,8 +82,7 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 
 ```bash
 ## 🚧 Currently Building...
-- 👨‍💻 Buildind Projects - Some real world exciting projects releasing soon..
-- 🌐 Personal Portfolio — Full-stack Next.js site. Launching 2025.
+- 🍲 FoodTrient : Food Nutrients Analyzer
 ```
 
 ## 💼 Featured Projects
