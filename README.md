@@ -97,6 +97,7 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 [![CoffeeNation](https://img.shields.io/badge/CoffeeNation-LandingPage-indigo?style=for-the-badge)](https://github.com/chiragRane-Projects/CoffeeNation) | CoffeeNation is a responsive animated landing page for a coffee cafe |
 [![Finbuddy](https://img.shields.io/badge/FinBuddy-Expense_Tracker-cyan?style=for-the-badge)](https://github.com/chiragRane-Projects/Finbuddy) | Finbuddy is an expense tracker which allows user track their expenses within a specified budget set by themselves |
 [![Educare](https://img.shields.io/badge/Educare-landing_page-lightblue?style=for-the-badge)](https://github.com/chiragRane-Projects/Educare) | Educare is a modern and visually engaging Landing Page for a fictional Learning Management System (LMS)|
+[![FoodTrient](https://img.shields.io/badge/FoodTrient-Web_App-emerald?style=for-the-badge)](https://github.com/chiragRane-Projects/FoodTrient) | FoodTrient is an AI-powered web application that helps users understand the nutritional value, health impact, and smarter alternatives of the food they consume — simply by uploading a photo.|
 
 ---
 
