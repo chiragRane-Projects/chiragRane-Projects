@@ -82,22 +82,21 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 
 ```bash
 ## 🚧 Currently Building...
-- 🍲 FoodTrient : Food Nutrients Analyzer
--  FinBuddy : Smart Expense Tracker
+- 👨‍⚕️ BookMyDoctor : Docotor Appointment Booking Web App
+- 💸 FinBuddy : Smart Expense Tracker
 ```
 
 ## 💼 Featured Projects
 
 | 🔗 **Project** | ⚡ **What It Does** |
 |----------------|-------------------|
-| [![QuickPress](https://img.shields.io/badge/QuickPress-News_Aggregator-orange?style=for-the-badge)](https://github.com/chiragRane-Projects/QuickPress) | Curated news feed using **NewsAPI** + NLP for smarter news delivery. |
-| [![Tell-It Backend](https://img.shields.io/badge/TellIt-Backend_Server-red?style=for-the-badge)](https://github.com/chiragRane-Projects/TellIt-backend.git) | The API backbone for **QuickPress**. Fast, secure, and scalable. |
 | [![Coders of Delhi](https://img.shields.io/badge/CodersOfDelhi-Social_Network-blue?style=for-the-badge)](https://github.com/chiragRane-Projects/Coders-Of-Delhi) | A non-UI, JSON-based platform suggesting **friends** and **pages** coders might like. |
 [![Estate](https://img.shields.io/badge/Estate-LandingPage-emerald?style=for-the-badge)](https://github.com/chiragRane-Projects/Estate) | Estate is a responsive landing page template for real estate consultants to showcase properties and services. |
 [![CoffeeNation](https://img.shields.io/badge/CoffeeNation-LandingPage-indigo?style=for-the-badge)](https://github.com/chiragRane-Projects/CoffeeNation) | CoffeeNation is a responsive animated landing page for a coffee cafe |
 [![Finbuddy](https://img.shields.io/badge/FinBuddy-Expense_Tracker-cyan?style=for-the-badge)](https://github.com/chiragRane-Projects/Finbuddy) | Finbuddy is an expense tracker which allows user track their expenses within a specified budget set by themselves |
 [![Educare](https://img.shields.io/badge/Educare-landing_page-lightblue?style=for-the-badge)](https://github.com/chiragRane-Projects/Educare) | Educare is a modern and visually engaging Landing Page for a fictional Learning Management System (LMS)|
 [![FoodTrient](https://img.shields.io/badge/FoodTrient-Web_App-emerald?style=for-the-badge)](https://github.com/chiragRane-Projects/FoodTrient) | FoodTrient is an AI-powered web application that helps users understand the nutritional value, health impact, and smarter alternatives of the food they consume — simply by uploading a photo.|
+[![Traventure](https://img.shields.io/badge/Traventure-landing_page-teal?style=for-the-badge)](https://github.com/chiragRane-Projects/Traventure) | Traventure is a beautiful landing page for a travel agency.|
 
 ---
 
