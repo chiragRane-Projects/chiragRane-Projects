@@ -68,6 +68,8 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
 <img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" alt="Flask Badge"/>
+<img src="https://img.shields.io/badge/NeonDB-92f242?style=for-the-badge&logo=neondb&logoColor=black" alt="NeonDB Badge"/>
+<img src="https://img.shields.io/badge/PocketBase-232824?style=for-the-badge&logo=pocketbase&logoColor=white" alt="Pocketbase Badge"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge"/>
 <img src="https://img.shields.io/badge/NextAuth.js-3A0CA3?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth.js Badge"/>
 
