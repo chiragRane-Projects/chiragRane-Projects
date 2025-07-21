@@ -97,8 +97,11 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 
 ```bash
 ## 🚧 Currently Building...
-- 👨‍⚕️ BookMyDoctor : Docotor Appointment Booking Web App
-- 💸 FinBuddy : Smart Expense Tracker
+- Full Stack Projects that fuse Machine Learning, FastAPI, and Next.js into production-ready products.
+- Architecting end-to-end systems — from data pipelines to beautiful UIs, powered by MongoDB, Pandas, and real-world logic.
+- Deploying with CI/CD, scaling with cloud, and obsessing over clean, modular code.
+- On a mission to become a Data Scientist who doesn’t just analyze the world — **automates it**.
+- Hustling daily to turn concepts into case studies, code into conviction, and projects into proof of skill.
 ```
 
 ## 💼 Featured Projects
