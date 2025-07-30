@@ -122,8 +122,23 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=chiragRane-Projects&show_icons=true&theme=tokyonight&hide_border=true" alt="Chirag's GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragRane-Projects&layout=compact&theme=tokyonight&hide_border=true" alt="Chirag's Top Languages"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=chiragRane-Projects&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Chirag's GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragRane-Projects&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Chirag's Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragRane-Projects&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chiragRane-Projects&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragRane-Projects&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=chiragRane-Projects&label=Profile+Views&color=blueviolet&style=flat" alt="profile views"/>
 </p>
 
