@@ -127,14 +127,6 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chiragRane-Projects&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chiragRane-Projects&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&row=1&column=6" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragRane-Projects&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
