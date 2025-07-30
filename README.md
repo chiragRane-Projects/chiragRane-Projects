@@ -90,6 +90,7 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 
 <!-- Version Control -->
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
 
 </p>
 
@@ -123,6 +124,7 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=chiragRane-Projects&show_icons=true&theme=tokyonight&hide_border=true" alt="Chirag's GitHub Stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragRane-Projects&layout=compact&theme=tokyonight&hide_border=true" alt="Chirag's Top Languages"/>
+  <img src="https://komarev.com/ghpvc/?username=chiragRane-Projects&label=Profile+Views&color=blueviolet&style=flat" alt="profile views"/>
 </p>
 
 ---
