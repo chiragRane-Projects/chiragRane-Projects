@@ -127,20 +127,17 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragRane-Projects&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=chiragRane-Projects&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chiragRane-Projects&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chiragRane-Projects&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragRane-Projects&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragRane-Projects&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chiragRane-Projects&label=Profile+Views&color=blueviolet&style=flat" alt="profile views"/>
-</p>
 
 ---
 
