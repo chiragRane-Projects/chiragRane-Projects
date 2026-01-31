@@ -2,18 +2,15 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Developer life">
   <h1 align="center">🚀 Welcome to My World — I'm Chirag Rane</h1>
-  <p align="center">👨‍💻 Full-Stack Developer | 🧱 System Architect | 🔧 Builder of Real-World Tech | 🧠 Aspiring Data Scientist</p>
+  <p align="center">👨‍💻 Full-Stack Developer | 🧱 System Architect | 🔧 Builder of Real-World Tech | 🧠 Data Scientist</p>
 </p>
 
 <!-- SOCIAL LINKS WITH SWAG -->
 <p align="center">
-  <a href="https://www.instagram.com/chiragrane04/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/chirag-rane-2a7ba5270/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://chirag-rane.vercel.app/">
+  <a href="https://chirag-v-rane.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-LIVEFF8C00?style=for-the-badge&logo=fire&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
@@ -109,8 +106,8 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 
 | 🔗 **Project** | ⚡ **What It Does** |
 |----------------|-------------------|
-| [![Coders of Delhi](https://img.shields.io/badge/CodersOfDelhi-Social_Network-blue?style=for-the-badge)](https://github.com/chiragRane-Projects/Coders-Of-Delhi) | A non-UI, JSON-based platform suggesting **friends** and **pages** coders might like. |
-[![Estate](https://img.shields.io/badge/Estate-LandingPage-emerald?style=for-the-badge)](https://github.com/chiragRane-Projects/Estate) | Estate is a responsive landing page template for real estate consultants to showcase properties and services. |
+| [![ProLogistics](https://img.shields.io/badge/ProLogistics-Logistics_Software-blue?style=for-the-badge)](https://github.com/chiragRane-Projects/inv_frontend) | A logistics platform built on modern technology solving real world problems. |
+[![Finoplex](https://img.shields.io/badge/Finoplex-emerald?style=for-the-badge)](https://github.com/chiragRane-Projects/fintech_backend) | Finoplex is a smart fintech platform for users tracking their expenses and forecasting. |
 [![CoffeeNation](https://img.shields.io/badge/CoffeeNation-LandingPage-indigo?style=for-the-badge)](https://github.com/chiragRane-Projects/CoffeeNation) | CoffeeNation is a responsive animated landing page for a coffee cafe |
 [![Educare](https://img.shields.io/badge/Educare-landing_page-lightblue?style=for-the-badge)](https://github.com/chiragRane-Projects/Educare) | Educare is a modern and visually engaging Landing Page for a fictional Learning Management System (LMS)|
 [![FoodTrient](https://img.shields.io/badge/FoodTrient-Web_App-emerald?style=for-the-badge)](https://github.com/chiragRane-Projects/FoodTrient) | FoodTrient is an AI-powered web application that helps users understand the nutritional value, health impact, and smarter alternatives of the food they consume — simply by uploading a photo.|
