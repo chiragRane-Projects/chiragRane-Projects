@@ -38,56 +38,40 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 
 <p align="center">
 
-<!-- Languages & Tools -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn Badge"/>
+<!-- Backend & Frameworks -->
+<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS Badge"/>
+<img src="https://img.shields.io/badge/ExpressJS-404D59?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS Badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
+<img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" alt="Flask Badge"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB Badge"/>
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router Badge"/>
+<img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS Badge"/>
+
+<!-- BaaS -->
+<img src="https://img.shields.io/badge/PocketBase-232824?style=for-the-badge&logo=pocketbase&logoColor=white" alt="PocketBase Badge"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Badge"/>
+
+<!-- Languages -->
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
-<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon Badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging-Face Badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
 
-<!-- Frameworks & Libraries -->
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-<img src="https://img.shields.io/badge/PocketBase-232824?style=for-the-badge&logo=pocketbase&logoColor=white" alt="Pocketbase Badge"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge"/>
-<img src="https://img.shields.io/badge/Clerk-3E1E50?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk Badge"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
-<img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" alt="Flask Badge"/>
-<img src="https://img.shields.io/badge/NeonDB-92f242?style=for-the-badge&logo=neondb&logoColor=black" alt="NeonDB Badge"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB Badge"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge"/>
-<img src="https://img.shields.io/badge/NextAuth.js-3A0CA3?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth.js Badge"/>
-
-<!-- Hosting & Deployment -->
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render Badge"/>
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
-
-<!-- Data Science Libraries -->
-<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook Badge"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
-
-<!-- Machine Learning Concepts -->
-<img src="https://img.shields.io/badge/Supervised_Learning-FF6B6B?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Supervised Learning Badge"/>
-<img src="https://img.shields.io/badge/Unsupervised_Learning-6BCB77?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Unsupervised Learning Badge"/>
-
-<!-- Version Control -->
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+<!-- Tools & Platform -->
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
+<img src="https://img.shields.io/badge/Thunder_Client-5C2D91?style=for-the-badge&logo=thunderclient&logoColor=white" alt="Thunder Client Badge"/>
+
 
 </p>
 
@@ -107,11 +91,9 @@ This is not just theory—it's a hands-on path with real datasets, projects, and
 | 🔗 **Project** | ⚡ **What It Does** |
 |----------------|-------------------|
 | [![ProLogistics](https://img.shields.io/badge/ProLogistics-Logistics_Software-blue?style=for-the-badge)](https://github.com/chiragRane-Projects/inv_frontend) | A logistics platform built on modern technology solving real world problems. |
-[![Finoplex](https://img.shields.io/badge/Finoplex-emerald?style=for-the-badge)](https://github.com/chiragRane-Projects/fintech_backend) | Finoplex is a smart fintech platform for users tracking their expenses and forecasting. |
+[![Finoplex](https://img.shields.io/badge/Finoplex-Fintech_Platform-emerald?style=for-the-badge)](https://github.com/chiragRane-Projects/fintech_backend) | Finoplex is a smart fintech platform for users tracking their expenses and forecasting. |
 [![CoffeeNation](https://img.shields.io/badge/CoffeeNation-LandingPage-indigo?style=for-the-badge)](https://github.com/chiragRane-Projects/CoffeeNation) | CoffeeNation is a responsive animated landing page for a coffee cafe |
 [![Educare](https://img.shields.io/badge/Educare-landing_page-lightblue?style=for-the-badge)](https://github.com/chiragRane-Projects/Educare) | Educare is a modern and visually engaging Landing Page for a fictional Learning Management System (LMS)|
-[![FoodTrient](https://img.shields.io/badge/FoodTrient-Web_App-emerald?style=for-the-badge)](https://github.com/chiragRane-Projects/FoodTrient) | FoodTrient is an AI-powered web application that helps users understand the nutritional value, health impact, and smarter alternatives of the food they consume — simply by uploading a photo.|
-[![Traventure](https://img.shields.io/badge/Traventure-landing_page-teal?style=for-the-badge)](https://github.com/chiragRane-Projects/Traventure) | Traventure is a beautiful landing page for a travel agency.|
 [![Logitrack-Backend](https://img.shields.io/badge/Logitrack-fastapi_backend-cyan?style=for-the-badge)](https://github.com/chiragRane-Projects/logitrack-backend) | Backend APIs for logistics companies to predict whether the deliveries will be delayed or not|
 
 ---
