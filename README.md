@@ -26,11 +26,9 @@
 
 ---
 
-## 🔬 Entering the World of Data Science
+## 🔬 Building Real World Digital Experiences
 
-My latest obsession? **Data Science**. I’ve kicked off a dedicated journey diving into the depths of data with Python, NumPy, Pandas, and Jupyter Notebooks.
-
-This is not just theory—it's a hands-on path with real datasets, projects, and mini case studies, built as I learn from sources like Code With Harry's data science course.
+My latest obsession? **BUILD**. Nowadays, my only goal is to keep building softwares which can be realted to real world, which can solve problems of different domains.
 
 ---
 
