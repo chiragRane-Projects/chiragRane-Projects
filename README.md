@@ -10,10 +10,16 @@
   <a href="https://www.linkedin.com/in/chirag-rane-2a7ba5270/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
+  <a href="https://x.com/stackknight20">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a>
+
   <a href="https://chirag-v-rane.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-LIVEFF8C00?style=for-the-badge&logo=fire&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-LIVE-FF8C00?style=for-the-badge&logo=fire&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
+
 
 ---
 
