@@ -59,6 +59,7 @@ My latest obsession? **BUILD**. Nowadays, my only goal is to keep building softw
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router Badge"/>
 <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS Badge"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge"/>
 
 <!-- BaaS -->
 <img src="https://img.shields.io/badge/PocketBase-232824?style=for-the-badge&logo=pocketbase&logoColor=white" alt="PocketBase Badge"/>
