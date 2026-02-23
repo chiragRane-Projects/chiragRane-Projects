@@ -23,19 +23,56 @@
 
 ---
 
-## 🧠 About This Account
+## 💼 CURRENT ROLE
 
-- 🛠 **My GitHub = My Playground**: Personal & client projects, experiments, and production-level builds — all under one digital roof.
-- 💡 **Problem Solver by Nature**: I turn chaos into clean code that actually solves problems.
-- 🌐 **Full-Stack Dev meets Data Science**: From Next.js to NumPy — I’m blending system design with data intelligence.
-- 🎯 **Mission**: Build projects that matter. Learn constantly. Share everything.
+**Full Stack Developer @ Masys Technologies**  
+Designing production-grade systems, scalable APIs, and ML-powered applications that solve real business problems.
 
 ---
 
-## 🔬 Building Real World Digital Experiences
+## ⚡ WHAT I BRING TO THE TABLE
 
-My latest obsession? **BUILD**. Nowadays, my only goal is to keep building softwares which can be realted to real world, which can solve problems of different domains.
+I operate across the full engineering spectrum:
 
+- **Full Stack Engineering** → End-to-end product development
+- **System Architecture** → Scalable, modular, cloud-ready systems
+- **Data Science** → Predictive modeling & decision intelligence
+- **AI/ML Engineering** → Model training, optimization & deployment
+- **Production Mindset** → Performance, reliability, maintainability
+
+I don’t build demos.  
+I build systems that scale.
+
+---
+
+---
+
+## 🧠 ENGINEERING STRENGTHS
+
+### 🔹 Backend Systems
+- High-performance REST APIs
+- Authentication & Authorization Architecture
+- Database Optimization & Schema Design
+- Distributed-ready service structures
+
+### 🔹 Frontend Engineering
+- Scalable component architecture
+- Performance-first UI systems
+- SSR & optimized rendering pipelines
+
+### 🔹 Data & Machine Learning
+- EDA & Feature Engineering
+- Forecasting & Predictive Modeling
+- Classification & Regression Systems
+- ML model deployment using FastAPI
+- End-to-end ML + Full Stack integration
+
+### 🔹 DevOps & Cloud
+- AWS Deployments
+- CI/CD Pipelines
+- Linux-based environments
+- Production debugging & monitoring
+  
 ---
 
 ## 🧰 Tech Stack
@@ -85,12 +122,13 @@ My latest obsession? **BUILD**. Nowadays, my only goal is to keep building softw
 ---
 
 ```bash
-## 🚧 Currently Building...
-- Full Stack Projects that fuse Machine Learning, FastAPI, and Next.js into production-ready products.
-- Architecting end-to-end systems — from data pipelines to beautiful UIs, powered by MongoDB, Pandas, and real-world logic.
-- Deploying with CI/CD, scaling with cloud, and obsessing over clean, modular code.
-- On a mission to become a Data Scientist who doesn’t just analyze the world — **automates it**.
-- Hustling daily to turn concepts into case studies, code into conviction, and projects into proof of skill.
+## 🎯 TARGET TRAJECTORY
+
+- Advanced distributed systems
+- ML infrastructure at scale
+- Data-first product engineering
+- High-performance backend systems
+- FAANG-level system design mastery
 ```
 
 ## 💼 Featured Projects
@@ -119,10 +157,11 @@ My latest obsession? **BUILD**. Nowadays, my only goal is to keep building softw
 
 ---
 
-## ✨ Philosophy
+## 💡 ENGINEERING PHILOSOPHY
 
-> **“Clean code is important, but delivered code that solves problems is life-changing.”**  
-> — Me (and probably someone way smarter too)
+Build systems that scale.  
+Automate intelligence.  
+Ship relentlessly.
 
 ---
 
