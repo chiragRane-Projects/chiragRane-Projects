@@ -1,6 +1,6 @@
 <!-- HERO IMAGE & GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="John Wick Reload"/>
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="350" alt="John Wick Calm"/>
   <h1 align="center">🚀 Welcome to My World — I'm Chirag Rane</h1>
   <p align="center">👨‍💻 Full-Stack Developer | 🧱 System Architect | 🔧 Builder of Real-World Tech | 🧠 Data Scientist</p>
 </p>
