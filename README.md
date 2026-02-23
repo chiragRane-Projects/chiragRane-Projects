@@ -45,8 +45,6 @@ I build systems that scale.
 
 ---
 
----
-
 ## 🧠 ENGINEERING STRENGTHS
 
 ### 🔹 Backend Systems
