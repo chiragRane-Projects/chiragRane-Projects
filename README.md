@@ -137,7 +137,7 @@ I build systems that scale.
 |----------------|-------------------|
 | [![ProLogistics](https://img.shields.io/badge/ProLogistics-Logistics_Software-blue?style=for-the-badge)](https://github.com/chiragRane-Projects/inv_frontend) | A logistics platform built on modern technology solving real world problems. |
 [![Finoplex](https://img.shields.io/badge/Finoplex-Fintech_Platform-emerald?style=for-the-badge)](https://github.com/chiragRane-Projects/fintech_backend) | Finoplex is a smart fintech platform for users tracking their expenses and forecasting. |
-[![Stockflow](https://img.shields.io/badge/Stockflow-Inventory_Management_System-indigo?style=for-the-badge)](https://github.com/chiragRane-Projects/Stockflow) | CoffeeNation is a responsive animated landing page for a coffee cafe |
+[![Stockflow](https://img.shields.io/badge/Stockflow-Inventory_Management_System-indigo?style=for-the-badge)](https://github.com/chiragRane-Projects/Stockflow) | Stockflow is an invenory management system designed for small size grocerry stores |
 [![Educare](https://img.shields.io/badge/Educare-landing_page-lightblue?style=for-the-badge)](https://github.com/chiragRane-Projects/Educare) | Educare is a modern and visually engaging Landing Page for a fictional Learning Management System (LMS)|
 [![Logitrack-Backend](https://img.shields.io/badge/Logitrack-fastapi_backend-cyan?style=for-the-badge)](https://github.com/chiragRane-Projects/logitrack-backend) | Backend APIs for logistics companies to predict whether the deliveries will be delayed or not|
 
