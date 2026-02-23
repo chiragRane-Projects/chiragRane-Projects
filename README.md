@@ -159,9 +159,11 @@ I build systems that scale.
 
 ## 💡 ENGINEERING PHILOSOPHY
 
+<p align="center">
 Build systems that scale.  
 Automate intelligence.  
 Ship relentlessly.
+</p>
 
 ---
 
