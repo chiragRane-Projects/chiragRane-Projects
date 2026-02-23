@@ -114,6 +114,8 @@ I build systems that scale.
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
 <img src="https://img.shields.io/badge/Thunder_Client-5C2D91?style=for-the-badge&logo=thunderclient&logoColor=white" alt="Thunder Client Badge"/>
 
+<!-- OS -->
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux Badge"/>
 
 </p>
 
